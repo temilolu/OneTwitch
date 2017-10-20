@@ -1,0 +1,25 @@
+{
+  "name": "onetwitch",
+  "version": "1.0.0",
+  "description": "Twitch.tv clone built with react, redux, json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temilolu/OneTwitch.git"
+  },
+  "keywords": [
+    "Jest",
+    "ReactJS",
+    "Redux",
+    "JSON-Server"
+  ],
+  "author": "Temitayo Ogunlolu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/temilolu/OneTwitch/issues"
+  },
+  "homepage": "https://github.com/temilolu/OneTwitch#readme"
+}
