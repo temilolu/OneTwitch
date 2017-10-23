@@ -14,6 +14,9 @@ This project was driven by a simple question at gigster:
 # I chose twitch
 Why assume when I can just pull something off.
 
+# How to run 
+
+
 # Contributing
 Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
 
