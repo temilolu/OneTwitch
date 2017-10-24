@@ -4,7 +4,7 @@ import preload from '../db.json';
 
 const Games = () => (
 	<div>
-		<div>{preload.games.map(games => <GamesCard games={games} />)}</div>
+		<div>{preload.games.map(games => <GamesCard key={games.id} games={games} />)}</div>
 	</div>
 );
 
