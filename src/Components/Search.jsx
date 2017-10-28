@@ -6,7 +6,7 @@ class Search extends Component {
 		super(props);
 
 		this.state = {
-			searchTerm: 'this is some sort of debug statement',
+			searchTerm: '',
 		};
 		this.handleSearchTermChange = this.handleSearchTermChange.bind(this);
 	}
@@ -18,18 +18,28 @@ class Search extends Component {
 		return (
 			<div>
 				<header>
-					<h1>OneTwitch!</h1>
+					<h1>OneTwitch</h1>
 					<a href="/">Home</a>
 
 					<input placeholder={this.state.searchTerm} onChange={this.handleSearchTermChange} type="text" />
 				</header>
 				<div>
-					{preload.games.map(games => (
-						<div>
-							<h3>{games.game_name}</h3>
-							<img alt={`${games.game_name} show poster`} src={games.game_img} />
-						</div>
-					))}
+					{/*
+					The filter helps to search through the games data
+					(It's responsible for the awesomeness in search)
+				*/}
+
+					{preload.games
+						.filter(
+							games =>
+								`${games.game_name}`.toUpperCase().indexOf(this.state.searchTerm.toUpperCase()) >= 0
+						)
+						.map(games => (
+							<div key={games.id}>
+								<h3>{games.game_name}</h3>
+								<img alt={`${games.game_name} show poster`} src={games.game_img} />
+							</div>
+						))}
 				</div>
 			</div>
 		);

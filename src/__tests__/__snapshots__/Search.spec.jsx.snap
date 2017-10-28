@@ -1,0 +1,573 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search snapshot test 1`] = `
+<div>
+  <header>
+    <h1>
+      OneTwitch
+    </h1>
+    <a
+      href="/"
+    >
+      Home
+    </a>
+    <input
+      onChange={[Function]}
+      placeholder=""
+      type="text"
+    />
+  </header>
+  <div>
+    <div
+      key="0"
+    >
+      <h3>
+        Ergonomic Cotton Shoes
+      </h3>
+      <img
+        alt="Ergonomic Cotton Shoes show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/weavermedia/128.jpg"
+      />
+    </div>
+    <div
+      key="1"
+    >
+      <h3>
+        Licensed Plastic Soap
+      </h3>
+      <img
+        alt="Licensed Plastic Soap show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/linux29/128.jpg"
+      />
+    </div>
+    <div
+      key="2"
+    >
+      <h3>
+        Intelligent Cotton Bacon
+      </h3>
+      <img
+        alt="Intelligent Cotton Bacon show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/jennyyo/128.jpg"
+      />
+    </div>
+    <div
+      key="3"
+    >
+      <h3>
+        Incredible Frozen Tuna
+      </h3>
+      <img
+        alt="Incredible Frozen Tuna show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/kianoshp/128.jpg"
+      />
+    </div>
+    <div
+      key="4"
+    >
+      <h3>
+        Intelligent Plastic Hat
+      </h3>
+      <img
+        alt="Intelligent Plastic Hat show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/nyancecom/128.jpg"
+      />
+    </div>
+    <div
+      key="5"
+    >
+      <h3>
+        Awesome Wooden Chair
+      </h3>
+      <img
+        alt="Awesome Wooden Chair show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/sementiy/128.jpg"
+      />
+    </div>
+    <div
+      key="6"
+    >
+      <h3>
+        Incredible Rubber Hat
+      </h3>
+      <img
+        alt="Incredible Rubber Hat show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/herrhaase/128.jpg"
+      />
+    </div>
+    <div
+      key="7"
+    >
+      <h3>
+        Refined Frozen Salad
+      </h3>
+      <img
+        alt="Refined Frozen Salad show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/emmeffess/128.jpg"
+      />
+    </div>
+    <div
+      key="8"
+    >
+      <h3>
+        Tasty Wooden Ball
+      </h3>
+      <img
+        alt="Tasty Wooden Ball show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/travishines/128.jpg"
+      />
+    </div>
+    <div
+      key="9"
+    >
+      <h3>
+        Unbranded Cotton Mouse
+      </h3>
+      <img
+        alt="Unbranded Cotton Mouse show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/vladimirdevic/128.jpg"
+      />
+    </div>
+    <div
+      key="10"
+    >
+      <h3>
+        Sleek Granite Salad
+      </h3>
+      <img
+        alt="Sleek Granite Salad show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/_williamguerra/128.jpg"
+      />
+    </div>
+    <div
+      key="11"
+    >
+      <h3>
+        Ergonomic Granite Bike
+      </h3>
+      <img
+        alt="Ergonomic Granite Bike show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/8d3k/128.jpg"
+      />
+    </div>
+    <div
+      key="12"
+    >
+      <h3>
+        Unbranded Plastic Salad
+      </h3>
+      <img
+        alt="Unbranded Plastic Salad show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/cocolero/128.jpg"
+      />
+    </div>
+    <div
+      key="13"
+    >
+      <h3>
+        Fantastic Plastic Chips
+      </h3>
+      <img
+        alt="Fantastic Plastic Chips show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/sasha_shestakov/128.jpg"
+      />
+    </div>
+    <div
+      key="14"
+    >
+      <h3>
+        Sleek Granite Mouse
+      </h3>
+      <img
+        alt="Sleek Granite Mouse show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/vladarbatov/128.jpg"
+      />
+    </div>
+    <div
+      key="15"
+    >
+      <h3>
+        Tasty Steel Pizza
+      </h3>
+      <img
+        alt="Tasty Steel Pizza show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/ffbel/128.jpg"
+      />
+    </div>
+    <div
+      key="16"
+    >
+      <h3>
+        Unbranded Rubber Shirt
+      </h3>
+      <img
+        alt="Unbranded Rubber Shirt show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/buryaknick/128.jpg"
+      />
+    </div>
+    <div
+      key="17"
+    >
+      <h3>
+        Practical Frozen Ball
+      </h3>
+      <img
+        alt="Practical Frozen Ball show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/baliomega/128.jpg"
+      />
+    </div>
+    <div
+      key="18"
+    >
+      <h3>
+        Generic Cotton Tuna
+      </h3>
+      <img
+        alt="Generic Cotton Tuna show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/nastya_mane/128.jpg"
+      />
+    </div>
+    <div
+      key="19"
+    >
+      <h3>
+        Awesome Soft Pants
+      </h3>
+      <img
+        alt="Awesome Soft Pants show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/to_soham/128.jpg"
+      />
+    </div>
+    <div
+      key="20"
+    >
+      <h3>
+        Sleek Metal Mouse
+      </h3>
+      <img
+        alt="Sleek Metal Mouse show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/jeremiaha/128.jpg"
+      />
+    </div>
+    <div
+      key="21"
+    >
+      <h3>
+        Rustic Fresh Cheese
+      </h3>
+      <img
+        alt="Rustic Fresh Cheese show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/hermanobrother/128.jpg"
+      />
+    </div>
+    <div
+      key="22"
+    >
+      <h3>
+        Refined Frozen Bacon
+      </h3>
+      <img
+        alt="Refined Frozen Bacon show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/krystalfister/128.jpg"
+      />
+    </div>
+    <div
+      key="23"
+    >
+      <h3>
+        Handmade Wooden Keyboard
+      </h3>
+      <img
+        alt="Handmade Wooden Keyboard show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/mekal/128.jpg"
+      />
+    </div>
+    <div
+      key="24"
+    >
+      <h3>
+        Incredible Concrete Chicken
+      </h3>
+      <img
+        alt="Incredible Concrete Chicken show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/craighenneberry/128.jpg"
+      />
+    </div>
+    <div
+      key="25"
+    >
+      <h3>
+        Awesome Cotton Chips
+      </h3>
+      <img
+        alt="Awesome Cotton Chips show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/otozk/128.jpg"
+      />
+    </div>
+    <div
+      key="26"
+    >
+      <h3>
+        Handmade Fresh Table
+      </h3>
+      <img
+        alt="Handmade Fresh Table show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/lepetitogre/128.jpg"
+      />
+    </div>
+    <div
+      key="27"
+    >
+      <h3>
+        Incredible Frozen Car
+      </h3>
+      <img
+        alt="Incredible Frozen Car show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/abdullindenis/128.jpg"
+      />
+    </div>
+    <div
+      key="28"
+    >
+      <h3>
+        Intelligent Soft Hat
+      </h3>
+      <img
+        alt="Intelligent Soft Hat show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/thierrykoblentz/128.jpg"
+      />
+    </div>
+    <div
+      key="29"
+    >
+      <h3>
+        Practical Fresh Chips
+      </h3>
+      <img
+        alt="Practical Fresh Chips show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/mangosango/128.jpg"
+      />
+    </div>
+    <div
+      key="30"
+    >
+      <h3>
+        Sleek Fresh Mouse
+      </h3>
+      <img
+        alt="Sleek Fresh Mouse show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/kimcool/128.jpg"
+      />
+    </div>
+    <div
+      key="31"
+    >
+      <h3>
+        Ergonomic Cotton Gloves
+      </h3>
+      <img
+        alt="Ergonomic Cotton Gloves show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/marosholly/128.jpg"
+      />
+    </div>
+    <div
+      key="32"
+    >
+      <h3>
+        Generic Frozen Chicken
+      </h3>
+      <img
+        alt="Generic Frozen Chicken show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/brajeshwar/128.jpg"
+      />
+    </div>
+    <div
+      key="33"
+    >
+      <h3>
+        Incredible Metal Chicken
+      </h3>
+      <img
+        alt="Incredible Metal Chicken show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/xadhix/128.jpg"
+      />
+    </div>
+    <div
+      key="34"
+    >
+      <h3>
+        Practical Concrete Pants
+      </h3>
+      <img
+        alt="Practical Concrete Pants show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/manekenthe/128.jpg"
+      />
+    </div>
+    <div
+      key="35"
+    >
+      <h3>
+        Incredible Rubber Bike
+      </h3>
+      <img
+        alt="Incredible Rubber Bike show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/balakayuriy/128.jpg"
+      />
+    </div>
+    <div
+      key="36"
+    >
+      <h3>
+        Handmade Granite Chicken
+      </h3>
+      <img
+        alt="Handmade Granite Chicken show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/adamawesomeface/128.jpg"
+      />
+    </div>
+    <div
+      key="37"
+    >
+      <h3>
+        Refined Cotton Cheese
+      </h3>
+      <img
+        alt="Refined Cotton Cheese show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/mymyboy/128.jpg"
+      />
+    </div>
+    <div
+      key="38"
+    >
+      <h3>
+        Rustic Frozen Shoes
+      </h3>
+      <img
+        alt="Rustic Frozen Shoes show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/blakesimkins/128.jpg"
+      />
+    </div>
+    <div
+      key="39"
+    >
+      <h3>
+        Sleek Metal Cheese
+      </h3>
+      <img
+        alt="Sleek Metal Cheese show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/goddardlewis/128.jpg"
+      />
+    </div>
+    <div
+      key="40"
+    >
+      <h3>
+        Handcrafted Fresh Chair
+      </h3>
+      <img
+        alt="Handcrafted Fresh Chair show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/jydesign/128.jpg"
+      />
+    </div>
+    <div
+      key="41"
+    >
+      <h3>
+        Small Concrete Towels
+      </h3>
+      <img
+        alt="Small Concrete Towels show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/andrea211087/128.jpg"
+      />
+    </div>
+    <div
+      key="42"
+    >
+      <h3>
+        Awesome Metal Tuna
+      </h3>
+      <img
+        alt="Awesome Metal Tuna show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/kudretkeskin/128.jpg"
+      />
+    </div>
+    <div
+      key="43"
+    >
+      <h3>
+        Ergonomic Fresh Table
+      </h3>
+      <img
+        alt="Ergonomic Fresh Table show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/poormini/128.jpg"
+      />
+    </div>
+    <div
+      key="44"
+    >
+      <h3>
+        Incredible Granite Hat
+      </h3>
+      <img
+        alt="Incredible Granite Hat show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/keryilmaz/128.jpg"
+      />
+    </div>
+    <div
+      key="45"
+    >
+      <h3>
+        Sleek Soft Mouse
+      </h3>
+      <img
+        alt="Sleek Soft Mouse show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/psdesignuk/128.jpg"
+      />
+    </div>
+    <div
+      key="46"
+    >
+      <h3>
+        Sleek Wooden Ball
+      </h3>
+      <img
+        alt="Sleek Wooden Ball show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/souuf/128.jpg"
+      />
+    </div>
+    <div
+      key="47"
+    >
+      <h3>
+        Fantastic Wooden Computer
+      </h3>
+      <img
+        alt="Fantastic Wooden Computer show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/kucingbelang4/128.jpg"
+      />
+    </div>
+    <div
+      key="48"
+    >
+      <h3>
+        Generic Granite Shirt
+      </h3>
+      <img
+        alt="Generic Granite Shirt show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/syropian/128.jpg"
+      />
+    </div>
+    <div
+      key="49"
+    >
+      <h3>
+        Sleek Rubber Chair
+      </h3>
+      <img
+        alt="Sleek Rubber Chair show poster"
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/mcflydesign/128.jpg"
+      />
+    </div>
+  </div>
+</div>
+`;

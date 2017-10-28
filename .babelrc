@@ -1,5 +1,6 @@
 {
 	"presets": [
+		"es2015",
 		"react",
 		[
 			"env",
@@ -8,8 +9,13 @@
 					"browsers": "last 2 versions"
 				},
 				"loose": true,
-				"modules": false
+				"modules": false,
+
+				"test": {
+					"presets": ["es2015", "react", "stage-0"]
+				}
 			}
 		]
-	]
+	],
+	"plugins": []
 }

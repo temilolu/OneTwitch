@@ -6,6 +6,7 @@ import Browse from './Components/Browse';
 import Following from './Components/Following';
 import Search from './Components/Search';
 import Games from './Components/Games';
+import Channel from './Components/Channel';
 
 const FourohFour = () => <h1>404 error</h1>;
 const App = () => (
@@ -17,6 +18,7 @@ const App = () => (
 				<Route path="/following" component={Following} />
 				<Route path="/search" component={Search} />
 				<Route path="/games" component={Games} />
+				<Route path="/channel" component={Channel} />
 				<Route component={FourohFour} />
 			</Switch>
 		</div>
