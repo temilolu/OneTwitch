@@ -1,0 +1,56 @@
+.mar-top {
+  margin-top: 30px; }
+
+header {
+  background: #4b367c;
+  border-bottom: 1px solid #dbdbdb;
+  min-height: 50px;
+  width: 100%;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  z-index: 1000; }
+  header img {
+    height: 50px; }
+  header a {
+    color: #ffffff; }
+  header li {
+    padding-left: 30px;
+    margin-top: 10px; }
+  header input {
+    margin-top: 5px; }
+
+.sidebar {
+  width: 100%;
+  background: #fafafa;
+  min-height: 400px;
+  margin-top: 30px;
+  padding: 20px;
+  -webkit-box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1), 0 2px 2px -2px rgba(0, 0, 0, 0.02), 0 1px 4px 0 rgba(0, 0, 0, 0.04) !important;
+  box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1), 0 2px 2px -2px rgba(0, 0, 0, 0.02), 0 1px 4px 0 rgba(0, 0, 0, 0.04) !important; }
+
+.sidebar--right {
+  margin-top: 30px; }
+  .sidebar--right li {
+    margin-top: 20px; }
+  .sidebar--right--img {
+    width: 30px;
+    height: 30px;
+    background: #000;
+    border-radius: 100%;
+    margin-right: 10px; }
+
+.feed {
+  width: 100%;
+  background: #fafafa;
+  min-height: 400px;
+  margin-top: 30px;
+  -webkit-box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1), 0 2px 2px -2px rgba(0, 0, 0, 0.02), 0 1px 4px 0 rgba(0, 0, 0, 0.04) !important;
+  box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1), 0 2px 2px -2px rgba(0, 0, 0, 0.02), 0 1px 4px 0 rgba(0, 0, 0, 0.04) !important; }
+  .feed--video {
+    width: 100%;
+    background-color: #000;
+    height: 300px; }
+  .feed--details {
+    padding: 20px; }
+
+/*# sourceMappingURL=main.css.map */
